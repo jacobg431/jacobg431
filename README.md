@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @jacobg431
+- 💡 I’m interested in history, philosophy, psychology, ... and of course programming!
+- 🌱 I’m currently learning React and Java Spring Boot
+- 📫 How to reach me: https://www.linkedin.com/in/jacob-gomez-hansen/ || jacobg431@gmail.com 
+- 🛠️ Check out my portfolio: https://jacobgomezhansen.net/my-portfolio/
+- ✏️ Favorite qoute: “If a day goes by and I don’t learn something, that’s a wasted day. Ideally you should get your mind blown at least once a week.” - Neil DeGrasse Tyson
